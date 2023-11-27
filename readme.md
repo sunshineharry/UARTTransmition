@@ -27,7 +27,7 @@
 
 ### 简易用法
 
-**编译环境：**Platform IO，win11，Arduino框架
+**编译环境**：Platform IO，win11，Arduino框架
 
 > 理论上用ArduinoIDE也可以编译通过，但我没有实验过
 
